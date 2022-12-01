@@ -1,0 +1,63 @@
+#side_bar,
+#select_bar {
+  background-color: #485cec;
+  height: 100%;
+  border-radius: 15px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+}
+
+#side_bar .row {
+  margin-top: 10px;
+  margin-bottom: 5px;
+  cursor: pointer;
+  margin: 0px;
+  padding: 20px;
+}
+
+.link {
+  color: #ffffff;
+  text-decoration: none;
+  padding: 0px;
+  text-transform: uppercase;
+  /* text-align: center; */
+}
+
+#side_bar {
+  height: 414px;
+}
+
+#side_bar .row:hover {
+  color: #485cec;
+}
+.icon {
+  width: 40px;
+  height: 40px;
+  margin: 25px 15px;
+  cursor: pointer;
+}
+
+.icon-add,
+.icon-minus {
+  width: 35px;
+  height: 35px;
+}
+
+.icon:hover {
+  color: #ffffff;
+}
+
+.data {
+  width: 70px;
+}
+
+.thres input {
+  border-radius: 5px;
+  width: 80%;
+  margin: 3px auto;
+  height: 40px;
+}
+#thres-btn {
+  width: 50%;
+  margin: 15px auto;
+  border-radius: 5px;
+}

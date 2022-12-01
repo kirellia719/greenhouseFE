@@ -1,0 +1,68 @@
+.card {
+  margin-left: 80px;
+}
+
+.title {
+  justify-content: center;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 25px;
+  margin-bottom: 30px;
+}
+.detail {
+  justify-content: center;
+}
+
+.left {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.right {
+  position: relative;
+  left: -75px;
+}
+#one {
+  text-decoration: none !important;
+  background-color: #d00000 !important;
+  cursor: pointer;
+}
+
+#two {
+  background-color: #4361ee !important;
+  cursor: pointer;
+}
+
+#three {
+  background-color: #ffba08 !important;
+  cursor: pointer;
+}
+
+#four {
+  background-color: #ddb892 !important;
+  cursor: pointer;
+}
+
+#one:hover {
+  box-shadow: 0 0 15px #d00000;
+}
+#two:hover {
+  box-shadow: 0 0 15px #4361ee;
+}
+#three:hover {
+  box-shadow: 0 0 15px #ffba08;
+}
+#four:hover {
+  box-shadow: 0 0 15px #ddb892;
+}
+
+.card-body {
+  color: #000000;
+  justify-content: center;
+}
+p {
+  text-align: center;
+}
+a {
+  text-decoration: none;
+}

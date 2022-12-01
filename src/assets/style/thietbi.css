@@ -1,0 +1,199 @@
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+
+  background-image: url(../../public/GH.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #38b000;
+}
+
+.topnav a {
+  float: left;
+  color: #000000;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav-right {
+  float: right;
+}
+.topnav-right a {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+#section {
+  float: left;
+  background: #b9fbc0;
+  height: 660px;
+  width: 100px;
+}
+.fa-chevron-up {
+  color: #000000;
+  padding-left: 35px;
+  padding-top: 20px;
+  padding-bottom: 30px;
+}
+.fa-chevron-down {
+  color: #000000;
+  padding-left: 35px;
+  padding-top: 30px;
+  padding-bottom: 20px;
+}
+.fa-fan {
+  color: #000000;
+  padding-left: 25px;
+  padding-top: 40px;
+  padding-bottom: 35px;
+}
+.fa-tint {
+  color: #000000;
+  padding-left: 25px;
+  padding-top: 40px;
+  padding-bottom: 35px;
+}
+.fa-lightbulb {
+  color: #000000;
+  padding-left: 25px;
+  padding-top: 40px;
+  padding-bottom: 35px;
+}
+.fa-door-open {
+  color: #000000;
+  padding-left: 25px;
+  padding-top: 40px;
+  padding-bottom: 35px;
+}
+
+#aside {
+  height: 660px;
+  width: 1536px;
+}
+#fa-trash {
+  color: #000000;
+  padding-left: 25px;
+  padding-top: 40px;
+  padding-bottom: 35px;
+}
+
+.ractanglef {
+  position: relative;
+  top: 100px;
+  left: 300px;
+  height: 510px;
+  width: 396px;
+  background: #b9fbc0;
+  border-radius: 20px 20px;
+}
+.ractangler {
+  position: relative;
+  top: -310px;
+  left: 650px;
+  height: 510px;
+  width: 396px;
+  background: #b9fbc0;
+  border-radius: 20px 20px;
+}
+.fa-trash {
+  position: relative;
+  top: -20px;
+  left: 265px;
+  color: #000000;
+}
+.racf {
+  position: relative;
+  left: 86px;
+  height: 167px;
+  width: 224px;
+  background: #c4c4c4;
+}
+.racr {
+  position: relative;
+  left: 86px;
+  height: 167px;
+  width: 224px;
+  background: #c4c4c4;
+}
+.fa-plus-circle {
+  position: relative;
+  left: 1300px;
+  top: -500px;
+  color: blue;
+}
+.fa-toggle-off {
+  position: relative;
+  top: 150px;
+  left: -90px;
+  color: #000000;
+}
+
+.box {
+  position: relative;
+  top: 150px;
+  left: 550px;
+  width: 500px;
+  height: 350px;
+  background: #2f303a;
+  border-radius: 20px 20px;
+}
+.button {
+  border: none;
+  color: rgb(10, 10, 10);
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 5px 5px;
+}
+.button1 {
+  position: relative;
+  top: 100px;
+  left: -30px;
+  background-color: red;
+}
+.button2 {
+  position: relative;
+  top: 100px;
+  left: 70px;
+  background-color: rgb(12, 190, 81);
+}
+.button3 {
+  position: relative;
+  width: 350px;
+  height: 35px;
+  top: -180px;
+  left: 45px;
+  background-color: blue;
+  border-radius: 7px 7px;
+}
+
+.box1 {
+  position: relative;
+  top: 50px;
+  left: 550px;
+  width: 450px;
+  height: 500px;
+  background: #2f303a;
+  border-radius: 20px 20px;
+}
+.fa-arrow-left {
+  position: relative;
+  top: 20px;
+  left: 20px;
+  color: #000000;
+}
